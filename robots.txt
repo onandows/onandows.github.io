@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onandows.github.io/sitemap.html.gz
+Sitemap: https://onandows.github.io/app/sitemap.html.gz
+Sitemap: https://onandows.github.io/assets/sitemap.html.gz
+Sitemap: https://onandows.github.io/css/sitemap.html.gz
+Sitemap: https://onandows.github.io/includes/sitemap.html.gz
+Sitemap: https://onandows.github.io/item/sitemap.html.gz
+Sitemap: https://onandows.github.io/src/sitemap.html.gz
